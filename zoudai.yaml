@@ -18,4 +18,10 @@ payload:
   - DOMAIN-KEYWORD,marriott
   - DOMAIN-SUFFIX,jethromobile.com
   - DOMAIN-SUFFIX,web.app
-  - DOMAIN-SUFFIX,usaddressgen.com
+  - DOMAIN-SUFFIX,naixi.net
+  - DOMAIN-SUFFIX,shuzijumin.com
+  - DOMAIN-SUFFIX,redteago.com
+  - IP-CIDR,usaddressgen.com
+  - IP-CIDR,172.64.155.0/24
+  - IP-CIDR,198.18.0.50/32
+  - IP-CIDR,151.101.129.91/32
