@@ -17,3 +17,4 @@ payload:
   - IP-CIDR,208.54.0.0/16,no-resolve
   - IP-CIDR,66.94.0.0/19,no-resolve
   - DOMAIN-SUFFIX,t-mo.cc
+  - DOMAIN-KEYWORD,tmobile
