@@ -5,4 +5,3 @@ payload:
   - IP-CIDR,119.31.123.0/24
   - DOMAIN-SUFFIX,epdg.epc.mnc004.mcc520.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,epdg.epc.mnc003.mcc520.pub.3gppnetwork.org
-  - DOMAIN-SUFFIX,config.rcs.mnc260.mcc310.jibecloud.net
