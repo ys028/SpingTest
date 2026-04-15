@@ -1,4 +1,4 @@
-payload:googleads.g.doubleclick.net/
+payload:
   - DOMAIN-SUFFIX,t-mo.cc
   - DOMAIN-SUFFIX,t-mobile.com
   - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
