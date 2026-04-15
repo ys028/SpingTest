@@ -1,4 +1,4 @@
-payload:
+payload:googleads.g.doubleclick.net/
   - DOMAIN-SUFFIX,t-mo.cc
   - DOMAIN-SUFFIX,t-mobile.com
   - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
@@ -21,3 +21,5 @@ payload:
   - DOMAIN-SUFFIX,3gppnetwork.org
   - DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
+  - DOMAIN-SUFFIX,googleads.g.doubleclick.net
+  - DOMAIN-SUFFIX,cdn.cookielaw.org
