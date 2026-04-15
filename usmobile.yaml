@@ -24,3 +24,4 @@ payload:
   - IP-CIDR, 208.54.0.0/16,no-resolve
   - IP-CIDR, 66.94.0.0/19,no-resolve
   - IP-CIDR, 206.29.176.0/22,no-resolve
+  - DOMAIN-SUFFIX,config.rcs.mnc260.mcc310.jibecloud.net
