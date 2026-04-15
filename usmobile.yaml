@@ -21,5 +21,6 @@ payload:
   - DOMAIN-SUFFIX,3gppnetwork.org
   - DOMAIN-SUFFIX,ss.epdg.epc.mnc260.mcc310.pub.3gppnetwork.org
   - DOMAIN-SUFFIX,ss.epdg.epc.geo.mnc260.mcc310.pub.3gppnetwork.org
-  - DOMAIN-SUFFIX,googleads.g.doubleclick.net
-  - DOMAIN-SUFFIX,cdn.cookielaw.org
+  - DOMAIN-SUFFIX,doubleclick.net
+  - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-KEYWORD,tmo-access
