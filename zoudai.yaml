@@ -11,7 +11,6 @@ payload:
   - DOMAIN-SUFFIX,truecorp.co.th
   - DOMAIN-SUFFIX,ipip.la
   - DOMAIN-SUFFIX,shuzijumin.com
-  - IP-CIDR,172.64.155.0/24
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
   - DOMAIN-KEYWORD,marriott
@@ -20,4 +19,4 @@ payload:
   - DOMAIN-SUFFIX,naixi.net
   - DOMAIN-SUFFIX,shuzijumin.com
   - DOMAIN-SUFFIX,redteago.com
-  - IP-CIDR,usaddressgen.com
+  - DOMAIN-SUFFIX,usaddressgen.com
