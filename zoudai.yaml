@@ -7,7 +7,6 @@ payload:
   - DOMAIN-SUFFIX,planetexpress.com
   - DOMAIN-SUFFIX,zaobao.com
   - DOMAIN-SUFFIX,hkcsl.com
-  - IP-CIDR,151.101.129.91/32
   - DOMAIN-SUFFIX,true.th
   - DOMAIN-SUFFIX,truecorp.co.th
   - DOMAIN-SUFFIX,ipip.la
@@ -22,8 +21,3 @@ payload:
   - DOMAIN-SUFFIX,shuzijumin.com
   - DOMAIN-SUFFIX,redteago.com
   - IP-CIDR,usaddressgen.com
-  - IP-CIDR,172.64.155.0/24
-  - IP-CIDR,198.18.0.50/32
-  - IP-CIDR,151.101.129.91/32
-  - IP-CIDR,142.250.141.108/32
-  - IP-CIDR,104.21.64.100/32
