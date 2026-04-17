@@ -29,3 +29,4 @@ payload:
   - DOMAIN-SUFFIX,lpsnmedia.net
   - DOMAIN-SUFFIX,signalfx.com
   - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-SUFFIX,rum-ingest.us0.signalfx.com
