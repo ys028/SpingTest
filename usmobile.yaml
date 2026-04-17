@@ -26,3 +26,6 @@ payload:
   - DOMAIN-KEYWORD,tmo-access
   - DOMAIN-SUFFIX,perimeterx.net
   - DOMAIN-SUFFIX,quantummetric.com
+  - DOMAIN-SUFFIX,lpsnmedia.net
+  - DOMAIN-SUFFIX,signalfx.com
+  - DOMAIN-SUFFIX,cookielaw.org
