@@ -27,3 +27,4 @@ payload:
   - DOMAIN-SUFFIX,ip2location.com
   - DOMAIN-SUFFIX,esim.gg
   - DOMAIN-SUFFIX,miillk.com
+  - DOMAIN-SUFFIX,push.apple.com
